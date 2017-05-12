@@ -6,7 +6,7 @@ Various Third party apis have been integrated with Cozmo here to allow him to be
 3. Fitbit API - Cozmo keeps track of your calorie limit for the day, and if it exceeds it, he will get annoyed at you
 
 ## Video
-https://www.youtube.com/watch?v=HJXg_scHQ64&index=11&list=PLiWWaMjaY89MVIFR2vFqOSwl38NSUGrOI
+https://www.youtube.com/watch?v=HJXg_scHQ64
 
 ## Implementation Details
 Each experience starts with Cozmo being in an idle mode polling for updates from the 3rd party API. Once Cozmo gets the update, Cozmo looks for your face and tries to get your attention. Then Cozmo relays the update through speech and images on his face
